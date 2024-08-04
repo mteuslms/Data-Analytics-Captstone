@@ -58,7 +58,7 @@ Potential challenges may include missing data, inaccuracies within the data, or 
 2. **Understand the Data Structure:** Explore the dataset to comprehend its structure and the meaning of each column.
 3. **Organize and Filter the Data:** Sort and filter the data based on variables relevant to your analysis, such as user type or trip duration, and exclude any data that is not pertinent to the business question.
 
-
-
+# What had to be changed?
+The file "C:\Users\mateu\Classes 2022\Downloads\202405-divvy-tripdata.zip" needs to be imported into Google BigQuery to be analyzed, but before, the data needs to be cleaned, I will be cleaning most of it on the excel file itself, so when I go to BigQuery I can focus on the more specific errors. The first steps I took were:
 
 
